@@ -5,5 +5,4 @@
    ))
 
 
-(deftest main
-  (is true))
+(deftest main)
